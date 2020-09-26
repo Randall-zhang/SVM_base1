@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/DataMining_SVM/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DataMining_SVM/SVMTool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DataMining_SVM/libsvm/svm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Randall_SVM/libsvm/svm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Randall_SVM/libsvm/svm_model.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Randall_SVM/libsvm/svm_node.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Randall_SVM/libsvm/svm_problem.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
